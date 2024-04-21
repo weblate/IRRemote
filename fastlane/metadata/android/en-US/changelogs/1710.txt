@@ -1,0 +1,5 @@
+* Many improvements thanks to Stéphane Lenclud:
+* Switch to Use AndroidX drawer layout
+* Add HDfury DIVA remotes
+* Add HDfury Vertex² remotes
+* Add Sonos remote
