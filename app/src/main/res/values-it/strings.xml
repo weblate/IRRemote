@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">Telecomando</string>
-
     <string name="db_menu_search_tit">Cerca</string>
     <string name="db_menu_refresh">Ricarica</string>
     <string name="menu_save">Salva telecomando</string>
@@ -19,7 +17,6 @@
     <string name="menu_action_edit">Modifica</string>
     <string name="menu_action_learn">Impara</string>
     <string name="menu_action_settings">Impostazioni</string>
-
     <!-- Save -->
     <string name="save_remote_title">Salva telecomando</string>
     <string name="save_remote_text">Scegli un nome per il tuo telecomando.\nIl tuo nuovo telecomando apparirà nella sezione I miei telecomandi</string>
@@ -31,7 +28,6 @@
     <string name="rename_remote_message">Inserisci un nuovo nome per %s</string>
     <string name="rename_remote_hint">Nuovo nome</string>
     <string name="rename_remote_save">Rinomina</string>
-
     <!--  -->
     <string name="save_button_title">Salva bottone</string>
     <string name="select_remote">Seleziona un telecomando</string>
@@ -41,7 +37,6 @@
     <string name="add_remote">Aggiungi telecomando</string>
     <string name="select_remote_first">Prima seleziona un telecomando</string>
     <string name="remote_saved_toast">Telecomando salvato</string>
-
     <!-- Button text. Translators: keep it short! (max 5 chars) -->
     <string name="button_text_power">acc</string>
     <string name="button_text_power_on">On</string>
@@ -68,7 +63,6 @@
     <string name="button_text_digit_7">7</string>
     <string name="button_text_digit_8">8</string>
     <string name="button_text_digit_9">9</string>
-
     <!--  -->
     <string name="button_text_input">fnt</string>
     <string name="button_text_guide">guida</string>
@@ -79,7 +73,6 @@
     <string name="button_text_cc">cc</string>
     <string name="button_text_info">info</string>
     <string name="button_text_sleep">dorm</string>
-
     <!--  -->
     <string name="button_text_play">play</string>
     <string name="button_text_pause">pausa</string>
@@ -108,36 +101,28 @@
     <string name="button_text_fan_down">fan -</string>
     <string name="button_text_temp_up">tmp +</string>
     <string name="button_text_temp_down">tmp -</string>
-
     <!-- -->
     <string name="button_text_list">list</string>
-
     <!-- Digits allowed to save a menu_main name -->
     <!-- Don't put spaces at the end or beginning -->
     <string name="allowed_digits">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789- _</string>
-
     <!--  -->
     <string name="delete_remote_title">Elimina telecomando</string>
     <string name="delete_remote_message">Sei sicuro di voler eliminare %s?</string>
     <string name="edit_remote_title">Modifica telecomando</string>
-    <string name="edit_remote_message"></string>
     <string name="my_remotes">I miei telecomandi</string>
-
     <!-- Preferences and all that awesome stuff -->
     <string name="pref_tit_fix">Sistema bottoni</string>
     <string name="pref_desc_fix">Alcuni dispositivi Android non inviano i codici correttamente. Attiva o disattiva questa opzione per sistemare questo problema.</string>
     <string name="dlg_na_tit">Oops!</string>
     <string name="dlg_na_msg">Sembra che il tuo dispositivo non può trasmettere infrarossi.\nCi dispiace ma non puoi usare quest\'app su questo dispositivo</string>
-
     <!-- Ready -->
     <string name="learn">Impara</string>
     <string name="learn_tit_ready">Configura \"%s\"</string>
     <string name="learn_desc_ready">Premi e tieni premuto il bottone \"%s\" sul telecomando puntandolo verso il trasmettitore di infrarossi del tuo dispositivo a circa 5 cm (2 inch).\nQuando sei pronto, premi Impara</string>
-
     <!-- Learning -->
     <string name="learn_tit_learning">Riconoscimento in corso…</string>
     <string name="learn_desc_learning">Continua a tenere %s…</string>
-
     <!-- Learned -->
     <string name="learn_tit_learned">Imparato!</string>
     <string name="learn_desc_learned">Fantastico. Ora continua a usare l\'app e prova il bottone.</string>
@@ -166,7 +151,6 @@
     <string name="ori_auto">Auto-rotazione</string>
     <string name="ori_port">Orizzontale</string>
     <string name="ori_land">Verticale</string>
-
     <!-- BEGIN v1302 -->
     <string name="pref_tit_orientation">Orientazione</string>
     <string name="pref_tit_bg">Sfondo</string>
@@ -182,7 +166,6 @@
     <!--  -->
     <string name="theme_tr">Trasparente</string>
     <string name="theme_sl">Solido</string>
-
     <!--  -->
     <string name="edit_confirmexitdlg_tit">Salva i cambiamenti?</string>
     <string name="edit_confirmexitdlg_save">Salva</string>
@@ -214,7 +197,6 @@
     <string name="edit_option_code">Codice IR</string>
     <string name="sizepicker_width">Larghezza</string>
     <string name="sizepicker_height">Altezza</string>
-
     <!-- BEGIN 1420 -->
     <string name="color_dlgtit">Cambia colore</string>
     <string name="icon_dlgtit">Cambia icona</string>
@@ -241,7 +223,6 @@
     <string name="color_brown">Marrone</string>
     <string name="color_grey">Grigio</string>
     <string name="color_blue_grey">Blu-grigio</string>
-
     <!--  -->
     <string name="menu_edit_multi">Modifica multipla</string>
     <string name="menu_edit_cab_edit">Modifica</string>
@@ -252,7 +233,6 @@
         <item quantity="one">%d selezionato</item>
         <item quantity="other">%d selezionati</item>
     </plurals>
-
     <string name="edit_corners_c">Raggio</string>
     <string name="edit_corners_tl">Alto sinistra</string>
     <string name="edit_corners_tr">Alto destra</string>
@@ -299,21 +279,15 @@
     <string name="provider_learn_button">Impara bottone</string>
     <string name="title_provider_add_button">Aggiungi bottone</string>
     <string name="title_provider_add_remote">Aggiungi telecomando</string>
-
     <string name="corners_square">Quadrato</string>
     <string name="corners_rounded_square">Quadrato tondeggiante</string>
     <string name="corners_circle">Cerchio</string>
-
     <plurals name="list_remote_button_size">
         <item quantity="zero">%d bottoni</item>
         <item quantity="one">%d bottone</item>
         <item quantity="other">%d bottoni</item>
     </plurals>
-
-
     <string name="save_remote_preview">Anteprima</string>
-
     <string name="preview_remote_dlgtit_remote">Anteprima del telecomando</string>
     <string name="preview_remote_dlgtit_button">Seleziona un bottone</string>
-
 </resources>
