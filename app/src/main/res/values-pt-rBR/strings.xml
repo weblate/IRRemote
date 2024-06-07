@@ -12,8 +12,6 @@
     <string name="menu_action_edit">Editar Controle</string>
     <string name="rename_remote_title">Renomear controle</string>
     <string name="rename_remote_message">Digite um novo nome para %s</string>
-    <string name="button_text_vol_up"></string>
-    <string name="button_text_vol_down"></string>
     <string name="dlg_na_msg">Parece que seu dispositivo não tem um transmissor infravermelho
 \nInfelizmente, não é possível usar este app no seu dispositivo</string>
     <string name="dlg_debug_tit">Informações de Depuração</string>
@@ -131,14 +129,7 @@
     <string name="add_remote">Adicionar controle</string>
     <string name="select_remote">Selecionar um controle</string>
     <string name="select_remote_first">Selecione um controle primeiro</string>
-    <string name="button_text_ch_up"></string>
-    <string name="button_text_power_on"></string>
-    <string name="button_text_back"></string>
     <string name="save_button_text_title">Nome do botão</string>
-    <string name="button_text_ch_down"></string>
-    <string name="button_text_power_off"></string>
-    <string name="button_text_power"></string>
-    <string name="button_text_menu"></string>
     <string name="delete_remote_title">Excluir controle</string>
     <string name="delete_remote_message">Tem certeza que quer excluir %s?</string>
     <string name="edit_remote_title">Editar controle</string>
