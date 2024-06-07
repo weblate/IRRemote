@@ -296,4 +296,17 @@
 \nPrimjer: 38000,1,1,162,162,31,65,31,65,31,65,[…],31,1792</string>
     <string name="empty_remote_msg">Stvorit će se prazan daljinski upravljač. Pritisnite Izbornik - Uredi za odlazak na ekran za uređivanje.
 \nOdatle možete dodati pojedinačne gumbe klikom na Izbornik - Dodaj gumb</string>
+    <string name="import_invalid">Nevažeća datoteka daljinskog upravljača</string>
+    <string name="import_notexist">Datoteka daljinskog upravljača nije pronađena</string>
+    <string name="save_button_title">Gumb spasi</string>
+    <string name="pref_tit_fix">Popravi gumbe</string>
+    <string name="save_button_dlgtit">Gumb spasi</string>
+    <string name="color_lime">Boja limete</string>
+    <string name="color_amber">Amber</string>
+    <string name="menu_edit_multi">Multi Edit</string>
+    <string name="provider_manual_freq_pattern">Frekvencija, uzorak</string>
+    <string name="provider_manual_pronto">Pronto Format</string>
+    <string name="provider_manual_pronto_info">Pronto Format
+\n
+\nPrimjer: 0000 006d 0022 0002 0156 00ab […] 0015 0056 0ed8</string>
 </resources>
