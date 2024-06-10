@@ -33,7 +33,6 @@
     <string name="db_menu_refresh">刷新</string>
     <string name="db_select_device_type">选择设备类型</string>
     <string name="common_menu_todb">更多</string>
-    <string name="db_search_hint_custom"></string>
     <string name="share_remote_message">分享%s</string>
     <string name="menu_action_learn">学习</string>
     <string name="save_remote_text">为您的遥控器选择一个名称。
@@ -265,5 +264,4 @@
     <string name="button_text_nav_right">右</string>
     <string name="button_text_nav_left">左</string>
     <string name="color_teal">深青</string>
-    <string name="button_text_input_2"></string>
 </resources>
