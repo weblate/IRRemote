@@ -264,4 +264,45 @@
     <string name="button_text_nav_right">右</string>
     <string name="button_text_nav_left">左</string>
     <string name="color_teal">深青</string>
+    <string name="db_search_hint_manufacturers">搜寻设备制造商</string>
+    <string name="db_search_hint_custom">搜寻 %s</string>
+    <string name="db_search_hint_buttons">搜寻按钮</string>
+    <string name="db_select_manufacturer">选择设备制造商</string>
+    <string name="button_text_input">src</string>
+    <string name="button_text_guide">epg</string>
+    <string name="button_text_smart">smrt</string>
+    <string name="button_text_clear">清空</string>
+    <string name="button_text_cc">cc</string>
+    <string name="button_text_info">info</string>
+    <string name="button_text_sleep">slp</string>
+    <string name="button_text_last">last</string>
+    <string name="button_text_fast_forward">fwd</string>
+    <string name="button_text_rewind">rwd</string>
+    <string name="button_text_next">next</string>
+    <string name="button_text_prev">prev</string>
+    <string name="button_text_rec">rec</string>
+    <string name="button_text_disp">disp</string>
+    <string name="button_text_src_cd">cd</string>
+    <string name="button_text_src_aux">aux</string>
+    <string name="button_text_src_tape">tape</string>
+    <string name="button_text_src_tuner">tuner</string>
+    <string name="button_text_input_1">src 1</string>
+    <string name="button_text_input_3">src 3</string>
+    <string name="button_text_input_4">src 4</string>
+    <string name="button_text_list">list</string>
+    <string name="button_text_fav">fav</string>
+    <string name="button_text_game">game</string>
+    <string name="button_text_msg">msg</string>
+    <string name="pref_tit_fix">修复按钮</string>
+    <string name="bg_gallery">专辑</string>
+    <string name="edit_confirmexitdlg_discard">拒绝</string>
+    <plurals name="selected">
+        <item quantity="other">已选择 %d</item>
+    </plurals>
+    <plurals name="list_remote_button_size">
+        <item quantity="other">按钮 %d</item>
+    </plurals>
+    <string name="button_text_input_2">src 2</string>
+    <string name="button_text_input_5">src 5</string>
+    <string name="button_text_home">home</string>
 </resources>
