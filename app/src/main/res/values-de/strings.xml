@@ -34,8 +34,8 @@
     <string name="select_remote_first">Zuerst eine Fernbedienung wählen</string>
     <string name="remote_saved_toast">Fernbedienung gesichert</string>
     <string name="button_text_power">power</string>
-    <string name="button_text_power_on">einschalten</string>
-    <string name="button_text_power_off">ausschalten</string>
+    <string name="button_text_power_on">ein</string>
+    <string name="button_text_power_off">aus</string>
     <string name="button_text_vol_down">Laut-</string>
     <string name="button_text_vol_up">Laut+</string>
     <string name="button_text_ch_up">Kanal+</string>
@@ -58,7 +58,7 @@
     <string name="button_text_last">zuletzt</string>
     <string name="button_text_clear">säubern</string>
     <string name="button_text_exit">Verlassen</string>
-    <string name="button_text_cc">säubern</string>
+    <string name="button_text_cc">cc</string>
     <string name="button_text_info">info</string>
     <string name="button_text_play">abspielen</string>
     <string name="button_text_pause">pause</string>
@@ -83,4 +83,16 @@
     <string name="button_text_digit_9">9</string>
     <string name="save_remote_text">Wähle einen Namen für deine Fernbedienung.
 \nUnter der \"Meine Fernbedienungen\" sektion ist diese dann zu finden.</string>
+    <string name="button_text_src_cd">cd</string>
+    <string name="button_text_src_aux">aux</string>
+    <string name="button_text_red">rot</string>
+    <string name="button_text_green">grün</string>
+    <string name="button_text_blue">blau</string>
+    <string name="button_text_yellow">gelb</string>
+    <string name="button_text_game">spiel</string>
+    <string name="button_text_help">hilfe</string>
+    <string name="button_text_lang">sprache</string>
+    <string name="button_text_msg">nachr.</string>
+    <string name="delete_remote_title"></string>
+    <string name="delete_remote_message">%s Wirklich entfernen?</string>
 </resources>
