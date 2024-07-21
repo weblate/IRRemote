@@ -93,6 +93,5 @@
     <string name="button_text_help">hilfe</string>
     <string name="button_text_lang">sprache</string>
     <string name="button_text_msg">nachr.</string>
-    <string name="delete_remote_title"></string>
     <string name="delete_remote_message">%s Wirklich entfernen?</string>
 </resources>
