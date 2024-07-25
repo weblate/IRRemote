@@ -82,7 +82,7 @@
     <string name="button_text_digit_8">8</string>
     <string name="button_text_digit_9">9</string>
     <string name="save_remote_text">Wähle einen Namen für deine Fernbedienung.
-\nUnter der \"Meine Fernbedienungen\" sektion ist diese dann zu finden.</string>
+\nUnter der \"Meine Fernbedienungen\" sektion ist diese dann zu finden</string>
     <string name="button_text_src_cd">cd</string>
     <string name="button_text_src_aux">aux</string>
     <string name="button_text_red">rot</string>
