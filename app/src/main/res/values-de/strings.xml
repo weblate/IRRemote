@@ -68,7 +68,6 @@
     <string name="button_text_next">nächste</string>
     <string name="button_text_prev">vorherig</string>
     <string name="button_text_rec">aufneh.</string>
-    <string name="button_text_disp"></string>
     <string name="menu_action_import">Remote importieren</string>
     <string name="menu_action_learn">Lernen</string>
     <string name="menu_action_settings">Einstellungen</string>
