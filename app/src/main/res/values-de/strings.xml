@@ -228,7 +228,7 @@
     <string name="menu_edit_cab_sel_all">ALLE</string>
     <string name="menu_edit_cab_sel_none">KEINE</string>
     <plurals name="selected">
-        <item quantity="one">%d ausgewählt</item>
+        <item quantity="one"></item>
         <item quantity="other">%d ausgewählt</item>
     </plurals>
     <string name="edit_corners_c">Umfang</string>
@@ -302,6 +302,9 @@
 \nBeispiel: 38000,1,1,162,162,31,65,31,65,31,65,[…],31,1792</string>
     <string name="provider_manual_new_button">Neue Taste</string>
     <string name="empty_remote_tit">Leere Remote</string>
-    <string name="empty_remote_msg">Eine leere Remote wird erstellt. Tippe auf \"Menü\" - \"Bearbeiten\" um diese zu bearbeiten.
-\nVon dort aus kann man individuelle Tasten einstellen</string>
+    <string name="empty_remote_msg">Ein leerer Remote wird erstellt. Tippe auf \"Menü\" - \"Bearbeiten\" um diesen zu bearbeiten.
+\nVon dort aus kann man individuelle Tasten via \"Menü\" - \"Taste Hinzufügen\", hinzufügen</string>
+    <string name="button_text_temp_up">temp +</string>
+    <string name="button_text_temp_down">temp -</string>
+    <string name="button_text_disp">disp</string>
 </resources>
