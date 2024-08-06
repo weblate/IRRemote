@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">IR pult</string>
+    <string name="db_menu_search_tit">Otsi</string>
+    <string name="db_menu_refresh">Värskenda andmeid</string>
+    <string name="menu_save">Salvesta kaugjuhtimispult</string>
+    <string name="db_search_hint_manufacturers">Otsi tootjaid</string>
+    <string name="db_search_hint_custom">Otsi %s</string>
+    <string name="db_search_hint_buttons">Otsingunupud</string>
+    <string name="db_select_manufacturer">Vali tootja</string>
+</resources>
