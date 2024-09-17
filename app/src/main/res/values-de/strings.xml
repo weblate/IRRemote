@@ -60,7 +60,7 @@
     <string name="button_text_exit">Verlassen</string>
     <string name="button_text_cc">säubern.</string>
     <string name="button_text_info">info</string>
-    <string name="button_text_play">play</string>
+    <string name="button_text_play">Abspielen</string>
     <string name="button_text_pause">pause</string>
     <string name="button_text_stop">stop</string>
     <string name="button_text_fast_forward">forwä.</string>
@@ -119,7 +119,7 @@
     <string name="pref_tit_fix">Tasten beheben</string>
     <string name="pref_desc_fix">Manche Android geräte senden den Code fehlerhaft. Aktivieren oder Deaktiveren um dies zu beheben.</string>
     <string name="delete_remote_title">Remote entfernen</string>
-    <string name="dlg_na_tit">Oops!</string>
+    <string name="dlg_na_tit">Ups!</string>
     <string name="dlg_na_msg">Es scheint als wenn dein Gerät kein IR Empfänger besitzt
 \nTut uns leid aber du wirst diese App auf diesem gerät nicht benutzen können</string>
     <string name="dlg_debug_tit">Debug Info</string>
@@ -228,16 +228,16 @@
     <string name="menu_edit_cab_sel_all">ALLE</string>
     <string name="menu_edit_cab_sel_none">KEINE</string>
     <plurals name="selected">
-        <item quantity="one"></item>
+        <item quantity="one"/>
         <item quantity="other">%d ausgewählt</item>
     </plurals>
     <string name="edit_corners_c">Umfang</string>
     <string name="edit_corners_tl">Oben Links</string>
     <string name="edit_corners_tr">Oben Rechts</string>
     <string name="edit_corners_bl">Unten Links</string>
-    <string name="pref_tit_vibrate">Bei berührung vibr.</string>
+    <string name="pref_tit_vibrate">Bei Berührung vibr.</string>
     <string name="pref_desc_vibrate">Beim tippen vibrieren</string>
-    <string name="pref_tit_delay">Signal wiederholhung verzö.</string>
+    <string name="pref_tit_delay">Signalwiederholung verzö.</string>
     <string name="pref_desc_delay">Bei langem drücken, die Anzahl in Millisekunden zwischen den Signalen</string>
     <string name="ms">%d ms</string>
     <string name="delay_reset_default">Standard</string>
