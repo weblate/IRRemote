@@ -80,4 +80,16 @@
     <string name="button_text_nav_ok">ОК</string>
     <string name="button_text_nav_right">П</string>
     <string name="button_text_back">назад</string>
+    <string name="button_text_yellow">жовтий</string>
+    <string name="delete_remote_message">Ви впевнені, що ви хочете видалити %s?</string>
+    <string name="button_text_list">список</string>
+    <string name="dlg_na_tit">Ой!</string>
+    <string name="learn_tit_learning">Навчання…</string>
+    <string name="learn_tit_learned">Навчився!</string>
+    <string name="learn_button_cancel">Скасувати</string>
+    <string name="learn_button_back">Назад</string>
+    <string name="learn_button_skip">Пропустити</string>
+    <string name="learn_button_try_again">Спробувати знову</string>
+    <string name="learn_button_finish">Закінчити</string>
+    <string name="learn_learning">Навчання…</string>
 </resources>
