@@ -240,4 +240,11 @@
 \nDe lá, você pode adicionar botões individuais clicando em Menu - Adicionar Botão</string>
     <string name="dlg_na_tit">Opa!</string>
     <string name="menu_edit_multi">Edição Múltipla</string>
+    <string name="button_text_vol_up">Vol+</string>
+    <string name="button_text_vol_down">Vol-</string>
+    <string name="button_text_ch_down">Ch-</string>
+    <string name="button_text_power_off">off</string>
+    <string name="button_text_power">ligar</string>
+    <string name="button_text_power_on">on</string>
+    <string name="button_text_ch_up">Ch+</string>
 </resources>
