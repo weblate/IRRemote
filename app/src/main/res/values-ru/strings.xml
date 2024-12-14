@@ -1,2 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="import_notexist">Удаленный файл не найден</string>
+    <string name="db_menu_search_tit">Поиск</string>
+    <string name="import_invalid">Неверный удаленный файл</string>
+    <string name="db_search_hint_buttons">Поиск кнопки</string>
+    <string name="save_remote_text">Выберите имя для своего пульта.\n\nВаш новый пульт появится в разделе \"Мои пульты\"</string>
+    <string name="save_remote_hint">Название пульта</string>
+    <string name="app_name">ИК-пульт</string>
+    <string name="save_remote_save">Сохранить</string>
+    <string name="db_menu_refresh">Обновить</string>
+    <string name="menu_save">Сохранить пульт</string>
+    <string name="db_search_hint_manufacturers">Поиск производителей</string>
+    <string name="db_search_hint_custom">Поиск %s</string>
+    <string name="db_select_manufacturer">Выбор производителя</string>
+    <string name="db_select_device_type">Выберите тип устройства</string>
+    <string name="common_menu_todb">Больше</string>
+    <string name="menu_action_delete_remote">Удалить пульт</string>
+    <string name="menu_action_rename">Переименовать пульт</string>
+    <string name="menu_action_edit">Редактировать пульт</string>
+    <string name="menu_action_export">Экспорт пульта</string>
+    <string name="menu_action_import">Импорт дистанционного управления</string>
+    <string name="menu_action_share">Поделиться Пульт дистанционного управления</string>
+    <string name="menu_action_learn">Узнать</string>
+    <string name="menu_action_settings">Настройки</string>
+    <string name="share_remote_message">Поделиться %s</string>
+    <string name="share_remote_failed">Сбой удаленного ресурса</string>
+    <string name="export_remote_failed">Удаленный экспорт не удался</string>
+    <string name="save_remote_title">Сохранить пульт</string>
+    <string name="err_name_empty">Название пульта не может быть пустым</string>
+</resources>
